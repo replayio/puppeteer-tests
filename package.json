@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-tests",
+  "version": "1.0.0",
+  "description": "Puppeteer based test suite for replay CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RecordReplay/puppeteer-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RecordReplay/puppeteer-tests/issues"
+  },
+  "homepage": "https://github.com/RecordReplay/puppeteer-tests#readme"
+}
