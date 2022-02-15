@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RecordReplay/puppeteer-tests/issues"
   },
-  "homepage": "https://github.com/RecordReplay/puppeteer-tests#readme"
+  "homepage": "https://github.com/RecordReplay/puppeteer-tests#readme",
+  "dependencies": {
+    "@recordreplay/puppeteer": "^10.1.4"
+  }
 }
